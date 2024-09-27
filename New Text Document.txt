@@ -1,0 +1,3 @@
+git bash de 
+	mv oldname newname
+ile fayl ve ya folderin adini deyise bilirik
